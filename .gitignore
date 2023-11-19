@@ -1,0 +1,10 @@
+build
+models
+*.py[cod]
+__pycache__/
+
+data
+
+*.pth
+
+venv
